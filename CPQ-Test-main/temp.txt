@@ -5,4 +5,6 @@
 This is the new line of code added today.
 
 
-This line of code is added now.
+This line of code is added now. 
+
+Some other line of code added today.
