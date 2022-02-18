@@ -1,3 +1,4 @@
+// added a comment line
 "This is temp file".
 
 
@@ -8,3 +9,5 @@ This is the new line of code added today.
 This line of code is added now. 
 
 Some other line of code added today.
+
+Added some line of code.
